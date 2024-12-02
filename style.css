@@ -1,0 +1,19 @@
+#meme{
+    font-family: "Playwrite HR Lijeva", serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    border: 5px, solid,white;
+    width: 100%;
+    margin-top: 20px;
+}
+*{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+}
